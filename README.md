@@ -1,5 +1,5 @@
-# Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+# Ex-07---SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -70,9 +70,8 @@ The infill pattern determines the arrangement of the internal structure within t
 
 
 
-### Name:V.A.JITHENDRA
-
-### Register Number:2122221230043
+### Name: KERSOAN P
+### Register Number: 212221230050
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
