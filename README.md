@@ -1,10 +1,14 @@
-# Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 03.10.2023
+# Ex--07--SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
 ## REQUIREMENTS:
 ### System - Windows 7 or higher, 1 GB RAM.
+```
+Name: Kersoan P
+Register Number: 212221230050
+```
 
 ## PROCEDURE:
 ### Pre-processing encompasses the steps between design and printing. Process of 3D printing starts with designing in CAD. Then printer software slices 3D CAD file into layers. For each slice, the software converts the data into machine code that determines tool paths for the machine to follow. The various steps in pre-processing from design to printing are as follows:
@@ -46,8 +50,7 @@
 ## Output:
 ![7](https://github.com/Aakash0407/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118799103/66a20ef1-3c7d-4c2a-8f9b-d02f606b27cf)
 
-### Name: BEJIN B
-### Register Number: 212222230021
+
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
